@@ -1,4 +1,4 @@
-const basePath = "http://finnhub.io/api/v1";
+const basePath = "https://finnhub.io/api/v1";
 const headers = new Headers();
 headers.append("X-Finnhub-Token" , "cnml68pr01qtghmdtt1gcnml68pr01qtghmdtt20")
 
